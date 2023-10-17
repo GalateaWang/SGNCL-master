@@ -13,3 +13,4 @@ Graph contrastive learning (GCL), as a self-supervised learning method, can solv
 - Transfer Learning on MoleculeNet datasets
 
 # SGNCL-master
+# SGNCL-master
