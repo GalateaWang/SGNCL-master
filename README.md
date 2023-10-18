@@ -26,3 +26,4 @@ Graph contrastive learning (GCL), as a self-supervised learning method, can solv
 - torch-geometric               1.7.0
 - torch-scatter                 2.0.9
 - torch-sparse                  0.6.12
+- rdkit-pypi                    2022.3.2.1
