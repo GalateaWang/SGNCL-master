@@ -10,3 +10,19 @@ Graph contrastive learning (GCL), as a self-supervised learning method, can solv
 
 - Transfer Learning on MoleculeNet datasets
 
+## Environment
+
+dgl                           0.7.2
+dive-into-graphs              0.1.2
+gensim                        3.6.0
+keras                         2.7.0
+networkx                      2.6.3
+numpy                         1.19.5
+ogb                           1.3.3
+pandas                        1.3.4
+PyGCL                         0.1.1
+torch                         1.9.0
+torch-cluster                 1.5.9
+torch-geometric               1.7.0
+torch-scatter                 2.0.9
+torch-sparse                  0.6.12
