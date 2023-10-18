@@ -13,7 +13,7 @@ from torch.optim import Adam, lr_scheduler
 from model import Encoder, SGN_CL
 from evaluate_embedding import evaluate_embedding
 from config import arg_parse, Line_Graph
-from t_SNE import draw_plot
+# from t_SNE import draw_plot
 args = arg_parse()
 import time
 from torch_geometric.utils import degree
@@ -60,7 +60,7 @@ def train(dataloader, SGN1, SGN2, model, optimizer):
 def test(args, dataloader, model, epoch, accuracies):
     model.eval()
     emb, y=  model.ori_encoder.get_embedding(dataloader)
-    draw_plot(emb, y, epoch)
+    # draw_plot(emb, y, epoch)
     res = evaluate_embedding(emb, y)
     
     accuracies['epoch'].append(epoch)
