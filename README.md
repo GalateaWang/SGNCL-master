@@ -1,4 +1,5 @@
-# SGNCL-master ![thanks coauthor](https://img.shields.io/badge/thankscoauthor-JiafeiShao-green.svg)
+# SGNCL-master 
+![github](https://img.shields.io/badge/github-GalateaWang-brightgreen.svg) ![thanks coauthor](https://img.shields.io/badge/thanksauthor-JiafeiShao-green.svg)  ![watchers](https://img.shields.io/github/watchers/galateawang/SGNCL-master) ![Github stars](https://img.shields.io/github/stars/GalateaWang/SGNCL-master.svg)
 
 This is a project for the paper "Subgraph Networks Based Contrastive Learning".
 
