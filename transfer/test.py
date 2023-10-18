@@ -1,5 +1,5 @@
 # coding=gbk
-from loader import MoleculeDataset_aug
+from loader_aug import MoleculeDataset_aug
 from torch_geometric.data import DataLoader
 import os.path as osp
 from copy import deepcopy
